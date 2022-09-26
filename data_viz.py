@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 import hydralit_components as hc
 from plotly.offline import init_notebook_mode, iplot
 from PIL import Image
-from streamlit_metrics import metric, metric_row
+from streamlit_metrics import metric
 
 
 st.set_page_config(
