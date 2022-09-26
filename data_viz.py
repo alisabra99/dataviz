@@ -8,7 +8,7 @@ from plotly.offline import init_notebook_mode, iplot
 
 
 st.set_page_config(
-    page_title="Suicides Dashboard",
+    page_title="Suicides Data Analysis",
     page_icon=":collision:",
     layout='wide'
 )
