@@ -182,7 +182,5 @@ if menu_id == 'Visuals':
     st.subheader("Summary")
     container1 = st.container()
     container1.write('This dashboard helps you understand the distribution of suicides among age groups, countries, and gender.')
-    container1 = st.container()
-    container1.write(
     container2 = st.container()
     container2.write("Link of the Suicides Dataset: https://www.kaggle.com/datasets/szamil/who-suicide-statistics ")
