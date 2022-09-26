@@ -41,7 +41,7 @@ menu_id = hc.nav_bar(
    
 if menu_id == 'Visuals':
     st.write('')
-    st.title(' Suicides Dashboard ')
+    st.title(' Suicides Data Analysis ')
     
     
     col1, col2 = st.columns(2)
